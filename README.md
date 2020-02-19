@@ -88,3 +88,4 @@ nocapture=1
 - [S3 Private PyPI](https://www.novemberfive.co/blog/opensource-pypi-package-repository-tutorial)
 - [Package to PyPI](https://realpython.com/pypi-publish-python-package/)
 - [나만의 패키지 작성방법](https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076)
+- [Web Classifiers](https://pypi.org/classifiers/)
