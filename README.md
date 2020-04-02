@@ -70,12 +70,12 @@ nocapture=1
 
 - Create distribute 
   ```
-  $ python setup.py sdist bdist_wheel
+  $ pipenv run python setup.py sdist bdist_wheel
   ```
 
 - Registry Test PyPI(only for testing purpose)
   ```bash
-  $ twine upload dist/* -r pypitest --verbose
+  $ pipenv run python -m twine upload dist/* -r pypitest --verbose
   ```
 
 - Registry Official PyPI 
