@@ -80,7 +80,7 @@ nocapture=1
 
 - Registry Official PyPI 
   ```bash
-  $ wine upload dist/* -r pypi
+  $ twine upload dist/* -r pypi
   ```
 
 ## Reference
