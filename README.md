@@ -80,7 +80,7 @@ nocapture=1
 
 - Registry Official PyPI 
   ```bash
-  $ twine upload dist/* -r pypi
+  $ pipenv run python -m twine upload dist/* -r pypi
   ```
 
 ## Reference
